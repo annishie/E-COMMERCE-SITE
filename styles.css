@@ -1,0 +1,72 @@
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  header img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    color: #333;
+    margin-top: 20px;
+  }
+
+  main {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  main h1 {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  main p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  .main a.order-now-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+  }
+  
+  .main a.order-now-button:hover {
+    background-color: #666;
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .quick-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .social-media-icons img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  footer p {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+  
